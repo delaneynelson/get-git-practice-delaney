@@ -6,3 +6,4 @@ Some more interesting notes that are important
 
 This too is interesting 
 
+Editing a file in VS Code
